@@ -9,3 +9,8 @@ Instructor: [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-
 TA: Zhouyingcheng Liao (zliao@connect.hku.hk)
 
 Please contact zliao@connect.hku.hk if there is any question.
+
+## Assignments
+
+- [Assignment 1 - Basic Character Animation](./assignment_1/README.md)
+- [Assignment 2 - Motion Processing](./assignment_2/README.md) — Deadline: 18 November 2026, 23:59 HKT
