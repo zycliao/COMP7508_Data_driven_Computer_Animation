@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+frames/
+_build/
+cloth.mp4
+cloth.gif

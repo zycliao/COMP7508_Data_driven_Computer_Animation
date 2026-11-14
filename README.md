@@ -14,3 +14,4 @@ Please contact zliao@connect.hku.hk if there is any question.
 
 - [Assignment 1 - Basic Character Animation](./assignment_1/README.md)
 - [Assignment 2 - Motion Processing](./assignment_2/README.md) — Deadline: 18 November 2026, 23:59 HKT
+- [Assignment 3 - Position-Based Dynamics](./assignment_3/README.md) — Deadline: 3 December 2026, 23:59 HKT
